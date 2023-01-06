@@ -1,0 +1,22 @@
+@media(max-width:576px)
+{
+    #last-col
+{
+   padding-left:10px;
+}
+#middle-col
+{
+   padding-left:10px;
+}
+}
+@media(max-width:991px)
+{
+    #last-col
+{
+   padding-left:10px;
+}
+#middle-col
+{
+   padding-left:10px;
+}
+}
